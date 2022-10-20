@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "worktogether-d8191": {
+      "hosting": {
+        "app": [
+          "worktogether-d8191"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "worktogether-d8191"
+  }
+}
